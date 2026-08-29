@@ -1,0 +1,11 @@
+# Temporary and state files
+*.tmp
+*.part
+.DS_Store
+Thumbs.db
+
+# Keep binaries or ignore local build artifacts if preferred
+# If distributing binaries via GitHub releases, uncomment:
+# updater.exe
+# updater-linux
+# updater-macos*
